@@ -1,5 +1,3 @@
-# NEST Desktop
-
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/nest-desktop/nest-desktop/main/icons/icon.png" width="256" alt="NEST Desktop">
   <br />
